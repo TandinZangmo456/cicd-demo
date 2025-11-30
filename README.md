@@ -6,3 +6,4 @@ PRACTICAL 4: INTEGRATING SNYK WITH GITHUB ACTIONS
 
 ## Security Scanning with Snyk
 This project uses Snyk for automated security vulnerability scanning.
+Workflow enabled and ready for security scanning!

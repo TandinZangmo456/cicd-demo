@@ -3,3 +3,6 @@
 PRACTICAL 4: INTEGRATING SNYK WITH GITHUB ACTIONS
 
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=douglasswmcst_cicd-demo)](https://sonarcloud.io/summary/new_code?id=douglasswmcst_cicd-demo)
+
+## Security Scanning with Snyk
+This project uses Snyk for automated security vulnerability scanning.
